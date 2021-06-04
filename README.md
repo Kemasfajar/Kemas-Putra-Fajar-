@@ -4,7 +4,7 @@ Nama		:Kemas Putra Fjar
 NIM			:181011402321
 Kelas		:06TPLE023
 
-## About this implementation:
+## Tentang implementasi ini:
 
 Implementasi MLP ini ditulis menggunakan C dan dapat melakukan klasifikasi multi-kelas. Masing-masing lapisan tersembunyi
 dan lapisan keluaran dapat menjalankan fungsi aktivasinya sendiri yang dapat ditentukan selama runtime. Fungsi aktivasi yang didukung adalah:
